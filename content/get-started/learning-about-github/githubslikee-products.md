@@ -100,7 +100,7 @@ In addition to the features available with {% data variables.product.prodname_te
 - {% data variables.product.prodname_github_connect %}
 - The option to purchase {% data variables.product.prodname_GH_advanced_security %}. For more information, see "[About {% data variables.product.prodname_GH_advanced_security %}](/github/getting-started-with-github/about-github-advanced-security)."
 
-{% data variables.product.prodname_ghe_cloud %} also includes:
+{% data variables.product.prodname_ghe_cloud %} also includexs:
 - {% data variables.contact.enterprise_support %}. For more information, see "<a href="/articles/github-enterprise-cloud-support" class="dotcom-only">{% data variables.product.prodname_ghe_cloud %} support</a>" and "<a href="/articles/github-enterprise-cloud-addendum" class="dotcom-only">{% data variables.product.prodname_ghe_cloud %} Addendum</a>."
 - 50,000 {% data variables.product.prodname_actions %} minutes
 - 50GB {% data variables.product.prodname_registry %} storage
